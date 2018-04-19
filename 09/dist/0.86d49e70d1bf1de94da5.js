@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{4:function(e,n,t){"use strict";t.r(n);var a=t(0),s=t.n(a);n.default=(e=>{const n=document.createElement("h2");n.classList.add(s.a.baz),n.innerText="Subtitle...",e.appendChild(n)})}}]);

@@ -1,0 +1,6 @@
+#!/bin/bash -e
+
+pushd $1
+shift
+npx webpack-dev-server $*
+popd
